@@ -52,7 +52,7 @@
                 "bunyan": "0.21.3",
                 "deep-equal": "0.0.0",
                 "escape-regexp-component": "1.0.2",
-                "formidable": "1.0.14",
+                "formidable": "git+https://github.com/lanther/node-formidable.git",
                 "http-signature": "0.10.0",
                 "keep-alive-agent": "0.0.1",
                 "lru-cache": "2.3.0",
